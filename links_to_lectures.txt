@@ -1,0 +1,54 @@
+------------------------------------OSCAR------------------------------------
+-----------------------------------MODULE 1----------------------------------
+Oscar. Модуль 1. Лекция 1 Вводное занятие. Команды и первая программа на Java. Часть1 - https://youtu.be/48SBoXsc3Do
+Oscar. Модуль 1. Лекция 1 Вводное занятие. Команды и первая программа на Java. Часть2 - https://youtu.be/mP8VyEzfEXE
+Oscar. Модуль 1. Лекция 2 Работа с переменными типа int и String - https://youtu.be/A4tb-PC2koU
+Oscar. Модуль 1. Лекция 3 Знакомство с типами и ввод с клавиатуры. Знакомство с IDEA - https://youtu.be/uzZKykujFvU
+Oscar. Модуль 1. Лекция 4 Условный оператор - https://youtu.be/Q6w1g16VpPk
+Oscar. Модуль 1. Лекция 5 Факультатив - https://youtu.be/E9W8_SN0NTU
+Oscar. Модуль 1. Лекция 6 Циклы - https://youtu.be/LtG3eHh8mZE
+Oscar. Модуль 1. Лекция 7 Массивы - https://youtu.be/zrhgbsfeNdU
+Oscar. Модуль 1. Лекция 8 Двумерные массивы - https://youtu.be/vIhMH1j0Tg4
+Oscar. Модуль 1. Лекция 9 Функции - https://youtu.be/rTjT1aZSywY
+Oscar. Модуль 1. Лекция 10 Работа со строками - https://youtu.be/AKVbc8nZhA4
+Oscar. Модуль 1. Лекция 11 Факультатив - https://youtu.be/5cS4ANY71I4
+Oscar. Модуль 1. Лекция 12 типы данных, знакомство с ООП - https://youtu.be/FHIrS6BTPC4
+Oscar. Модуль 1. Лекция 13 Объекты - https://youtu.be/BSy8_AS5jmg
+Oscar. Модуль 1. Лекция 14 Классы и static - https://youtu.be/IUkAF7sxSZc
+Oscar. Модуль 1. Лекция 15 Факультатив - https://youtu.be/yQayXMG0Tts
+Oscar. Модуль 1. Лекция 16 Списки - https://youtu.be/O2GO5kG5sAs
+Oscar. Модуль 1. Лекция 17 Коллекции Set - https://youtu.be/P2Oty0IgiMY
+Oscar. Модуль 1. Лекция 18 Коллекции Map - https://youtu.be/XAWQQWpi5Rg
+Oscar. Модуль 1. Лекция 19 Факультатив (1) - https://youtu.be/IJ7ozsz3UlA
+Oscar. Модуль 1. Лекция 19 Факультатив (2) - https://youtu.be/jwA3WIrD5j8
+Oscar. Модуль 1. Лекция 20 Singlton, enum, switch - https://youtu.be/Y9xJMgjyOWk
+Oscar. Модуль 1. Лекция 21 Исключения - https://youtu.be/PBjUjqT6498
+Oscar. Модуль 1. Лекция 22 Исключения 2 - https://youtu.be/wtNOB6W-AvE
+Oscar. Модуль 1. Лекция 23 Факультатив - https://youtu.be/x2_Y6oERIhA
+Oscar. Модуль 1. Лекция 24 потоки ввода и вывода - https://youtu.be/Nrn7opn90qg
+Oscar. Модуль 1. Лекция 25 Потоки ввода вывода. Декоратор - https://youtu.be/xcT0Wn31v5M
+Oscar. Модуль 1. Лекция 26 Потоки ввода вывода 3 - https://youtu.be/aFxf9XsTERU
+Oscar. Модуль 1. Лекция 27 Работа со временем и датой - https://youtu.be/STV_PvKhdTg
+Oscar. Модуль 1. Факультатив по проекту №1 - https://youtu.be/J8j-ow4wrwg
+Oscar. Модуль 1. Факультатив по итоговому проекту 2 - https://youtu.be/-D4yuVt1b6I
+------------------------------------OSCAR------------------------------------
+-----------------------------------MODULE 2----------------------------------
+Oscar. Модуль 2. Лекция 1 ООП инкапсуляция, полиморфизм - https://youtu.be/Kc1Qf4jN8k8
+Oscar. Модуль 2. Лекция 2 ООП перегрузка, переопределение, абстрактные классы - https://youtu.be/9sT9R7UtzpA
+Oscar. Модуль 2. Лекция 3 ООП Наследование, агрегация, композиция - https://youtu.be/wk9HlDDAhwI
+Oscar. Модуль 2. Лекция 4 ООП интерфейсы - https://youtu.be/HeLvw7RSaOY
+Oscar. Модуль 2. Лекция 5 Generics - https://youtu.be/yX-OeaZKY3Q
+Oscar. Модуль 2. Лекция 6 Лямбда выражения и Optional - https://youtu.be/C7emI5wZp3c
+Oscar. Модуль 2. Лекция 7 Stream / Приведение типов - https://youtu.be/1OXoHpzYxeI
+Oscar. Модуль 2. Лекция 8 Статические блоки и конструкторы - https://youtu.be/QhupWkeiLrQ
+Oscar. Модуль 2. Лекция 9 Особенности Object - https://youtu.be/6RDRlnpZTeI
+Oscar. Модуль 2. Лекция 10 Рекурсия - https://youtu.be/E7dqbJkAxTo
+Oscar. Модуль 2. Лекция 11 Знакомство с нитями - https://youtu.be/41hLcmPicEg
+Oscar. Модуль 2. Лекция 12 Знакомство с нитями ч.2 - https://youtu.be/2VwMaXMOlzQ
+Oscar. Модуль 2. Лекция 13 Executor - https://youtu.be/diAoF20jDW0
+Oscar. Модуль 2. Факультатив 2 - https://youtu.be/p8pkZauyBvc
+Oscar. Модуль 2. Лекция 14 Thread pools - https://youtu.be/y6dmTRZHKr0
+Oscar. Модуль 2. Лекция 15 Внутренние классы - https://youtu.be/HeN6MZrwANE
+Oscar. Модуль 2. Лекция 16 Сериализация - https://youtu.be/a-w7seJtMFY
+Oscar. Модуль 2. Лекция 17 Reflection API - https://youtu.be/AzD7XQA1Q5U
+Oscar. Модуль 2. Лекция 18 Аннотации - https://youtu.be/MWZ1hUxy6Kw
