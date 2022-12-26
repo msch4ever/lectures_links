@@ -52,3 +52,4 @@ Oscar. Модуль 2. Лекция 15 Внутренние классы - https
 Oscar. Модуль 2. Лекция 16 Сериализация - https://youtu.be/a-w7seJtMFY
 Oscar. Модуль 2. Лекция 17 Reflection API - https://youtu.be/AzD7XQA1Q5U
 Oscar. Модуль 2. Лекция 18 Аннотации - https://youtu.be/MWZ1hUxy6Kw
+Oscar. Модуль 2. Лекция 19 Sockets - https://youtu.be/O5JyduQwRQ4
