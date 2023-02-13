@@ -65,3 +65,5 @@ Oscar. Модуль 2. Итоговый проект. Факультатив 5 -
 Oscar. Модуль 3. Лекция 1 Maven фазы, плагины, зависимости и сборка - https://youtu.be/E2Eqh_r-clk
 Oscar. Модуль 3. Лекция 2 Продвинутое использование Maven - https://youtu.be/fWAbE6T7LiQ
 Oscar. Модуль 3. Лекция 3 JUnit 5 - https://youtu.be/nAtxO4UZjus
+Oscar. Модуль 3. Лекция 4 Mockito - https://youtu.be/WuUQx1oFQss
+Oscar. Модуль 3. Лекция 5 Логирование - https://youtu.be/4qWjxAisCvY
