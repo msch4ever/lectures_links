@@ -68,4 +68,4 @@ Oscar. Модуль 3. Лекция 3 JUnit 5 - https://youtu.be/nAtxO4UZjus
 Oscar. Модуль 3. Лекция 4 Mockito - https://youtu.be/WuUQx1oFQss
 Oscar. Модуль 3. Лекция 5 Логирование - https://youtu.be/4qWjxAisCvY
 Oscar. Модуль 3. Лекция 8 устройство сети - https://youtu.be/4pEwQFm5f6I
-Oscar. Модуль 3. Лекция 9 HTTP - https://youtu.be/jBU1sx67SDo
+Oscar. Модуль 3. Лекция 11 Tomcat - https://youtu.be/-9Sdf9UQxXA
