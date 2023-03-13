@@ -69,3 +69,4 @@ Oscar. Модуль 3. Лекция 4 Mockito - https://youtu.be/WuUQx1oFQss
 Oscar. Модуль 3. Лекция 5 Логирование - https://youtu.be/4qWjxAisCvY
 Oscar. Модуль 3. Лекция 8 устройство сети - https://youtu.be/4pEwQFm5f6I
 Oscar. Модуль 3. Лекция 11 Tomcat - https://youtu.be/-9Sdf9UQxXA
+Oscar. Модуль 3. Лекция 12 Сервлеты - https://youtu.be/QFetkHHkAug
