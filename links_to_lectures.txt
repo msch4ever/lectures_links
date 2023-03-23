@@ -76,3 +76,4 @@ Oscar. Модуль 3. Лекция 10 HttpClient - https://youtu.be/IEE0_Jja7Io
 Oscar. Модуль 3. Лекция 11 Tomcat - https://youtu.be/-9Sdf9UQxXA
 Oscar. Модуль 3. Лекция 12 Сервлеты - https://youtu.be/QFetkHHkAug
 Oscar. Модуль 3. Лекция 13 JSP & JSTL - https://youtu.be/3ePLtvjRrco
+Oscar. Модуль 3. Лекция 14 Архитектура ПО, MVC - https://youtu.be/Xy5seSF7bl4
