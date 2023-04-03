@@ -78,3 +78,4 @@ Oscar. Модуль 3. Лекция 12 Сервлеты - https://youtu.be/QFetk
 Oscar. Модуль 3. Лекция 13 JSP & JSTL - https://youtu.be/3ePLtvjRrco
 Oscar. Модуль 3. Лекция 14 Архитектура ПО, MVC - https://youtu.be/Xy5seSF7bl4
 Oscar. Модуль 3. Лекция 16 Паттерны Проектирования - https://youtu.be/MCmwoGddeKE
+Oscar. Модуль 3. Лекция 16 Паттерны Проектирования 2 -https://youtu.be/nRASwzKQmXM
