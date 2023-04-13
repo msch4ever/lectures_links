@@ -82,3 +82,4 @@ Oscar. Модуль 3. Лекция 16 Паттерны Проектирован
 Oscar. Модуль 3. Лекция 17 Паттерны Проектирования 2 -https://youtu.be/nRASwzKQmXM
 Oscar. Модуль 3. Факультатив. Паттерны Проектирования 3 - https://youtu.be/a_XXfP-wZmk
 Oscar. Модуль 3. Лекция 18. Работа с памятью - https://youtu.be/jacsPCUVyu8
+Oscar. Модуль 3. Лекция 19 Concurrent - https://youtu.be/og81J-qKjns
