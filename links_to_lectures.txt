@@ -85,3 +85,4 @@ Oscar. Модуль 3. Лекция 18. Работа с памятью - https:/
 Oscar. Модуль 3. Лекция 19 Concurrent - https://youtu.be/og81J-qKjns
 Oscar. Модуль 3. Лекция 20 Apache Commons - https://youtu.be/KwbY__19av0
 Oscar. Модуль 3. Итоговый проект. Факультатив 1 - https://youtu.be/DspRQvf666s
+Oscar. Модуль 3. Итоговый проект. Факультатив 2 - https://youtu.be/FVxLFQPJ9Ac
