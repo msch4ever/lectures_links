@@ -91,3 +91,4 @@ Oscar. Модуль 3. Итоговый проект. Факультатив 2 -
 Oscar. Модуль 4. Лекция 1 Базы данных и SQL - https://youtu.be/e-kZSMI94vU
 Oscar. Модуль 4. Лекция 2 SQL сложные запросы - https://youtu.be/2BHeap-moBM
 Oscar. Модуль 4. Лекция 3 JOIN - https://youtu.be/AIreK_B1dno
+Oscar. Модуль 4. Лекция 4 Типы Данных и Функции - https://youtu.be/evaWmQmnRYs
