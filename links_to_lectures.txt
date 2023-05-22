@@ -95,4 +95,5 @@ Oscar. Модуль 4. Лекция 4 Типы Данных и Функции - 
 Oscar. Модуль 4. Лекция 5 MySql Workbench, IDEA - https://youtu.be/vphpZtQbAMg
 Oscar. Модуль 4. Лекция 6 Изменения в БД - https://youtu.be/KWzIuS92S8k
 Oscar. Модуль 4. Лекция 7 JDBC - https://youtu.be/tXh2EZ7KrJc
+Oscar. Модуль 4. Лекция 8 JDBC на практике - https://youtu.be/mtVObjw-iHI
 	
