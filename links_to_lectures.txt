@@ -96,4 +96,6 @@ Oscar. Модуль 4. Лекция 5 MySql Workbench, IDEA - https://youtu.be/v
 Oscar. Модуль 4. Лекция 6 Изменения в БД - https://youtu.be/KWzIuS92S8k
 Oscar. Модуль 4. Лекция 7 JDBC - https://youtu.be/tXh2EZ7KrJc
 Oscar. Модуль 4. Лекция 8 JDBC на практике - https://youtu.be/mtVObjw-iHI
+Oscar. Модуль 4. Факультатив 1 - https://youtu.be/x7b_XbG2xlY
+Oscar. Модуль 4. Лекция 9 ORM аннотации, Entity, Hibernate - https://youtu.be/5In4JOoGFAg
 	
