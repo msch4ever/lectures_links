@@ -100,5 +100,6 @@ Oscar. Модуль 4. Факультатив 1 - https://youtu.be/x7b_XbG2xlY
 Oscar. Модуль 4. Лекция 9 ORM аннотации, Entity, Hibernate - https://youtu.be/5In4JOoGFAg
 Oscar. Модуль 4. Лекция 10 HQL - https://youtu.be/1TWz7A2Yssc
 Oscar. Модуль 4. Лекция 11 Hibernate состояние объекта, save, update, delete - https://youtu.be/_9OhkOzmy-U
-Oscar. Модуль 4. Лекция 12. Продвинутый маппинг типов данных - https://youtu.be/62PAtVhiC9U
+Oscar. Модуль 4. Лекция 12 Продвинутый маппинг типов данных - https://youtu.be/62PAtVhiC9U
+Oscar. Модуль 4. Лекция 13 Маппинг коллекций - https://youtu.be/yQeC9p7QILQ
 	
