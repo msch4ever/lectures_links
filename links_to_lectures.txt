@@ -103,4 +103,5 @@ Oscar. Модуль 4. Лекция 11 Hibernate состояние объект
 Oscar. Модуль 4. Лекция 12 Продвинутый маппинг типов данных - https://youtu.be/62PAtVhiC9U
 Oscar. Модуль 4. Лекция 13 Маппинг коллекций - https://youtu.be/yQeC9p7QILQ
 Oscar. Модуль 4. Лекция 14 Кэширование и Lazy Loading - https://youtu.be/iWgEwLQK91E
+Oscar. Модуль 4. Лекция 15 Сохранение иерархии классов - https://youtu.be/M1OkfmI_KVU
 	
