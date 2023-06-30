@@ -106,4 +106,4 @@ Oscar. Модуль 4. Лекция 14 Кэширование и Lazy Loading - 
 Oscar. Модуль 4. Лекция 15 Сохранение иерархии классов - https://youtu.be/M1OkfmI_KVU
 Oscar. Модуль 4. Лекция 16 Продвинутая работа с Hibernate - https://youtu.be/4Wf9N898ACw
 Oscar. Модуль 4. Лекция 17 Проектирование баз данных - https://youtu.be/fmg6IFoOp9k
-	
+Oscar. Модуль 4. Лекция 18 Транзакции, ACID, CAP - https://youtu.be/Sc9utPspjkE
