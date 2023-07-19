@@ -111,4 +111,5 @@ Oscar. Модуль 4. Факультатив 2 - https://youtu.be/WhGUNPXtrHY
 Oscar. Модуль 4. Лекция 19 NoSQL, Кластер и Cassandra - https://youtu.be/P59Uo6z_NiA
 Oscar. Модуль 4. Лекция 20 Шардинг - НЕТ_ССЫЛКИ
 Oscar. Модуль 4. Итоговый проект Факультатив 1 - НЕТ_ССЫЛКИ
-Oscar. Модуль 4. Итоговый проект Факультатив 2 - https://youtu.be/_L7gB2E3eas
+Oscar. Модуль 4. Итоговый проект Факультатив 2 (часть 1) - https://youtu.be/lTJfBOgAD4M
+Oscar. Модуль 4. Итоговый проект Факультатив 2 (часть 2) - https://youtu.be/_L7gB2E3eas
